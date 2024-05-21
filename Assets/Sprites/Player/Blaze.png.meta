@@ -1,0 +1,1698 @@
+fileFormatVersion: 2
+guid: 0e140ff22e0461d4eb50dc7761c97f2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1216003336760141077
+    second: Blaze_0
+  - first:
+      213: -4902467919999017551
+    second: Blaze_1
+  - first:
+      213: -7273111323311154116
+    second: Blaze_2
+  - first:
+      213: -1237485449839137416
+    second: Blaze_3
+  - first:
+      213: -8974799466716630086
+    second: Blaze_4
+  - first:
+      213: -3881946011156117705
+    second: Blaze_5
+  - first:
+      213: -2004491083450141655
+    second: Blaze_6
+  - first:
+      213: 1805848285954260104
+    second: Blaze_7
+  - first:
+      213: 3445598963488371783
+    second: Blaze_8
+  - first:
+      213: 7300575833588989382
+    second: Blaze_9
+  - first:
+      213: -8904575912191938941
+    second: Blaze_10
+  - first:
+      213: -2330995441244083532
+    second: Blaze_11
+  - first:
+      213: -1625989477879415488
+    second: Blaze_12
+  - first:
+      213: -6897746912835064055
+    second: Blaze_13
+  - first:
+      213: 7374041635247577162
+    second: Blaze_14
+  - first:
+      213: -4922254336329421759
+    second: Blaze_15
+  - first:
+      213: 3766885254614328590
+    second: Blaze_16
+  - first:
+      213: 4658968952750876689
+    second: Blaze_17
+  - first:
+      213: 1276384756423971018
+    second: Blaze_18
+  - first:
+      213: -5322489383728058863
+    second: Blaze_19
+  - first:
+      213: 2564770220266819108
+    second: Blaze_20
+  - first:
+      213: -1106823511211505528
+    second: Blaze_21
+  - first:
+      213: -4359723313919543607
+    second: Blaze_22
+  - first:
+      213: -2949639515231343531
+    second: Blaze_23
+  - first:
+      213: 2769230801595812072
+    second: Blaze_24
+  - first:
+      213: 5385152854359749163
+    second: Blaze_25
+  - first:
+      213: -5972346749234038775
+    second: Blaze_26
+  - first:
+      213: -310339112517326358
+    second: Blaze_27
+  - first:
+      213: 7752605066491742005
+    second: Blaze_28
+  - first:
+      213: 3055358696077145775
+    second: Blaze_29
+  - first:
+      213: -952923055573695759
+    second: Blaze_30
+  - first:
+      213: -448724844381862856
+    second: Blaze_31
+  - first:
+      213: 485631271604407416
+    second: Blaze_32
+  - first:
+      213: -3473141436300456165
+    second: Blaze_33
+  - first:
+      213: 275353178843035895
+    second: Blaze_34
+  - first:
+      213: 197783689494695104
+    second: Blaze_35
+  - first:
+      213: 4150735136643284878
+    second: Blaze_36
+  - first:
+      213: 8071629944320650624
+    second: Blaze_37
+  - first:
+      213: -5331413777983382363
+    second: Blaze_38
+  - first:
+      213: 7024568398448867604
+    second: Blaze_39
+  - first:
+      213: 8979115686910416813
+    second: Blaze_40
+  - first:
+      213: 3660483993314585610
+    second: Blaze_41
+  - first:
+      213: 7188479824977045959
+    second: Blaze_42
+  - first:
+      213: 3502590398132220131
+    second: Blaze_43
+  - first:
+      213: 5599708131238008513
+    second: Blaze_44
+  - first:
+      213: 3950793224923949418
+    second: Blaze_45
+  - first:
+      213: 4363791523267334671
+    second: Blaze_46
+  - first:
+      213: -1951684052536533486
+    second: Blaze_47
+  - first:
+      213: -7932651489933620039
+    second: Blaze_48
+  - first:
+      213: 8819378165411308945
+    second: Blaze_49
+  - first:
+      213: -8027216768665025286
+    second: Blaze_50
+  - first:
+      213: -5357015336673881284
+    second: Blaze_51
+  - first:
+      213: -5731396598847137578
+    second: Blaze_52
+  - first:
+      213: -6549566184659831240
+    second: Blaze_53
+  - first:
+      213: 1442941282979140281
+    second: Blaze_54
+  - first:
+      213: 1098879753434519712
+    second: Blaze_55
+  - first:
+      213: 769679087532095641
+    second: Blaze_56
+  - first:
+      213: 3031540664500879310
+    second: Blaze_57
+  - first:
+      213: 8488318667431774067
+    second: Blaze_58
+  - first:
+      213: 4706903256093254269
+    second: Blaze_59
+  - first:
+      213: 5282717824547839786
+    second: Blaze_60
+  - first:
+      213: 2450588271061706848
+    second: Blaze_61
+  - first:
+      213: 2297388872846900251
+    second: Blaze_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blaze_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152745979c10e010800000000000000
+      internalID: 1216003336760141077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 440
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd5b1b66fe6fbb0800000000000000
+      internalID: -4902467919999017551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 440
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cda2a39c7b01b90800000000000000
+      internalID: -7273111323311154116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 440
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87daf933a8193dee0800000000000000
+      internalID: -1237485449839137416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 440
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37dff7f6b137380800000000000000
+      internalID: -8974799466716630086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 440
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7378bc79bae802ac0800000000000000
+      internalID: -3881946011156117705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 440
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243487dafd9e24e0800000000000000
+      internalID: -2004491083450141655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c3d82c279af0910800000000000000
+      internalID: 1805848285954260104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744bd21700a31df20800000000000000
+      internalID: 3445598963488371783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 368
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7fd06a0bd05560800000000000000
+      internalID: 7300575833588989382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 368
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eac46e2679c6480800000000000000
+      internalID: -8904575912191938941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 368
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba679f0ff3a6afd0800000000000000
+      internalID: -2330995441244083532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_12
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 371
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d797a4f235f69e0800000000000000
+      internalID: -1625989477879415488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 370
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f2be58ab74640a0800000000000000
+      internalID: -6897746912835064055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 368
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a485fd34ccbd55660800000000000000
+      internalID: 7374041635247577162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 368
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c65f4a2c3a0bbb0800000000000000
+      internalID: -4922254336329421759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 368
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a1f66e2aa64430800000000000000
+      internalID: 3766885254614328590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1182a48049bf7a040800000000000000
+      internalID: 4658968952750876689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0df536c21a6b110800000000000000
+      internalID: 1276384756423971018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 289
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ee912fa18b226b0800000000000000
+      internalID: -5322489383728058863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 290
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e01853de4e79320800000000000000
+      internalID: 2564770220266819108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 292
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888003971e5c3a0f0800000000000000
+      internalID: -1106823511211505528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 288
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c636daaeb62f73c0800000000000000
+      internalID: -4359723313919543607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_23
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c2e2f1d76c017d0800000000000000
+      internalID: -2949639515231343531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 288
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84036fdb84e6620800000000000000
+      internalID: 2769230801595812072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 288
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b223b414df7ebba40800000000000000
+      internalID: 5385152854359749163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_26
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 288
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90832704646fd1da0800000000000000
+      internalID: -5972346749234038775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 288
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9ae7ea83471bbf0800000000000000
+      internalID: -310339112517326358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_28
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 288
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5374220ab39c69b60800000000000000
+      internalID: 7752605066491742005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6341dcb80d66a20800000000000000
+      internalID: 3055358696077145775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2004e978986c2f0800000000000000
+      internalID: -952923055573695759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 15
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8340ab8a12fc5c9f0800000000000000
+      internalID: -448724844381862856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 208
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4dcb811f4db600800000000000000
+      internalID: 485631271604407416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 208
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f0f92e34ceccfc0800000000000000
+      internalID: -3473141436300456165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8b6bcd14042d300800000000000000
+      internalID: 275353178843035895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 208
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc82bab73baeb200800000000000000
+      internalID: 197783689494695104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 208
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ffa508d9f5a9930800000000000000
+      internalID: 4150735136643284878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_37
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 242
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d63a54ba0340070800000000000000
+      internalID: 8071629944320650624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_38
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 245
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5dac7a630306b0800000000000000
+      internalID: -5331413777983382363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 208
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419baf99db74c7160800000000000000
+      internalID: 7024568398448867604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7de63d42a3c9c70800000000000000
+      internalID: 8979115686910416813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ce48f3cc6acc230800000000000000
+      internalID: 3660483993314585610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 136
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a1da805c92c360800000000000000
+      internalID: 7188479824977045959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07d5ad863bb9030800000000000000
+      internalID: 3502590398132220131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 136
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6de4870e826bd40800000000000000
+      internalID: 5599708131238008513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 136
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ac90818904d630800000000000000
+      internalID: 3950793224923949418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 136
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02d532254d4f8c30800000000000000
+      internalID: 4363791523267334671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 136
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed3c6d1b93ae4e0800000000000000
+      internalID: -1951684052536533486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8887bf7f89e190800000000000000
+      internalID: -7932651489933620039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 72
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956d21e6b9b46a70800000000000000
+      internalID: 8819378165411308945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af489a001e8999090800000000000000
+      internalID: -8027216768665025286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33db391fee08a5b0800000000000000
+      internalID: -5357015336673881284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d895dad82df570b0800000000000000
+      internalID: -5731396598847137578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 72
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b07291444b15a0800000000000000
+      internalID: -6549566184659831240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d7bba37b560410800000000000000
+      internalID: 1442941282979140281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8555a4051004f00800000000000000
+      internalID: 1098879753434519712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998b56b5d037eaa00800000000000000
+      internalID: 769679087532095641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff9bd2c22321a20800000000000000
+      internalID: 3031540664500879310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_58
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3778690ead09cc570800000000000000
+      internalID: 8488318667431774067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_59
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 5
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72619bb297425140800000000000000
+      internalID: 4706903256093254269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f5cc45fdbff4940800000000000000
+      internalID: 5282717824547839786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682f5b7c0d320220800000000000000
+      internalID: 2450588271061706848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blaze_62
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 5
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c79fcf107f1ef10800000000000000
+      internalID: 2297388872846900251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0443bc164ad65c47aeb6bcb3f6f072f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blaze_41: 3660483993314585610
+      Blaze_3: -1237485449839137416
+      Blaze_55: 1098879753434519712
+      Blaze_56: 769679087532095641
+      Blaze_38: -5331413777983382363
+      Blaze_57: 3031540664500879310
+      Blaze_50: -8027216768665025286
+      Blaze_60: 5282717824547839786
+      Blaze_5: -3881946011156117705
+      Blaze_54: 1442941282979140281
+      Blaze_10: -8904575912191938941
+      Blaze_22: -4359723313919543607
+      Blaze_0: 1216003336760141077
+      Blaze_45: 3950793224923949418
+      Blaze_48: -7932651489933620039
+      Blaze_32: 485631271604407416
+      Blaze_19: -5322489383728058863
+      Blaze_62: 2297388872846900251
+      Blaze_25: 5385152854359749163
+      Blaze_61: 2450588271061706848
+      Blaze_36: 4150735136643284878
+      Blaze_37: 8071629944320650624
+      Blaze_2: -7273111323311154116
+      Blaze_47: -1951684052536533486
+      Blaze_14: 7374041635247577162
+      Blaze_23: -2949639515231343531
+      Blaze_11: -2330995441244083532
+      Blaze_33: -3473141436300456165
+      Blaze_13: -6897746912835064055
+      Blaze_15: -4922254336329421759
+      Blaze_21: -1106823511211505528
+      Blaze_58: 8488318667431774067
+      Blaze_35: 197783689494695104
+      Blaze_40: 8979115686910416813
+      Blaze_7: 1805848285954260104
+      Blaze_17: 4658968952750876689
+      Blaze_52: -5731396598847137578
+      Blaze_43: 3502590398132220131
+      Blaze_31: -448724844381862856
+      Blaze_20: 2564770220266819108
+      Blaze_12: -1625989477879415488
+      Blaze_8: 3445598963488371783
+      Blaze_27: -310339112517326358
+      Blaze_29: 3055358696077145775
+      Blaze_28: 7752605066491742005
+      Blaze_1: -4902467919999017551
+      Blaze_4: -8974799466716630086
+      Blaze_49: 8819378165411308945
+      Blaze_53: -6549566184659831240
+      Blaze_34: 275353178843035895
+      Blaze_46: 4363791523267334671
+      Blaze_24: 2769230801595812072
+      Blaze_59: 4706903256093254269
+      Blaze_44: 5599708131238008513
+      Blaze_16: 3766885254614328590
+      Blaze_9: 7300575833588989382
+      Blaze_30: -952923055573695759
+      Blaze_51: -5357015336673881284
+      Blaze_39: 7024568398448867604
+      Blaze_26: -5972346749234038775
+      Blaze_6: -2004491083450141655
+      Blaze_18: 1276384756423971018
+      Blaze_42: 7188479824977045959
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

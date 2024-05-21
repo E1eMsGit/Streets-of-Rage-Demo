@@ -1,0 +1,723 @@
+fileFormatVersion: 2
+guid: 7a74d26ee946cb04cb9fb207fc324f17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4961101678243860888
+    second: Y Signal_0
+  - first:
+      213: -1772671277225646411
+    second: Y Signal_1
+  - first:
+      213: 2397781037422042972
+    second: Y Signal_2
+  - first:
+      213: 3287895308498161320
+    second: Y Signal_3
+  - first:
+      213: 932682251228130028
+    second: Y Signal_4
+  - first:
+      213: -893185670367296898
+    second: Y Signal_5
+  - first:
+      213: 6280833937791751481
+    second: Y Signal_6
+  - first:
+      213: -6569514105564485012
+    second: Y Signal_7
+  - first:
+      213: -5665622156586988518
+    second: Y Signal_8
+  - first:
+      213: 1700915893814529912
+    second: Y Signal_9
+  - first:
+      213: -6064161911591323740
+    second: Y Signal_10
+  - first:
+      213: -5980422359089930093
+    second: Y Signal_11
+  - first:
+      213: 2068045458348709535
+    second: Y Signal_12
+  - first:
+      213: -3786177052524098889
+    second: Y Signal_13
+  - first:
+      213: -687473342408301767
+    second: Y Signal_14
+  - first:
+      213: -204722848842612288
+    second: Y Signal_15
+  - first:
+      213: 2292080925432852985
+    second: Y Signal_16
+  - first:
+      213: 6147423822289843351
+    second: Y Signal_17
+  - first:
+      213: 6501257982975462811
+    second: Y Signal_18
+  - first:
+      213: -884480348869087149
+    second: Y Signal_19
+  - first:
+      213: 299594446159271534
+    second: Y Signal_20
+  - first:
+      213: 6707984093923638047
+    second: Y Signal_21
+  - first:
+      213: -2233159923969905826
+    second: Y Signal_22
+  - first:
+      213: 1161754557811545950
+    second: Y Signal_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Y Signal_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 108
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d15af0bf59d440800000000000000
+      internalID: 4961101678243860888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66d698dd43667e0800000000000000
+      internalID: -1772671277225646411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f55b84621a64120800000000000000
+      internalID: 2397781037422042972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 108
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec4b1fc53f0ad20800000000000000
+      internalID: 3287895308498161320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa3c0e09d81fc00800000000000000
+      internalID: 932682251228130028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 108
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c9477d54ca93f0800000000000000
+      internalID: -893185670367296898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 108
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9359b4b60310a2750800000000000000
+      internalID: 6280833937791751481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 108
+        width: 90
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a29ee4ab564d4a0800000000000000
+      internalID: -6569514105564485012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 108
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ccc059aaaaf51b0800000000000000
+      internalID: -5665622156586988518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 108
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f81ab5efdda9710800000000000000
+      internalID: 1700915893814529912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_10
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 108
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a73527eed4c7dba0800000000000000
+      internalID: -6064161911591323740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_11
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 80
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39024afcc85410da0800000000000000
+      internalID: -5980422359089930093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f961c3c236c23bc10800000000000000
+      internalID: 2068045458348709535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bac09fd70cc47bc0800000000000000
+      internalID: -3786177052524098889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e33133aa9576f0800000000000000
+      internalID: -687473342408301767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 12
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1845557ada82df0800000000000000
+      internalID: -204722848842612288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1bfdc257b1fcf10800000000000000
+      internalID: 2292080925432852985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 11
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7943c5b5569005550800000000000000
+      internalID: 6147423822289843351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_18
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 12
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dcc6cb0bb193a50800000000000000
+      internalID: 6501257982975462811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_19
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35038d21fc1b9b3f0800000000000000
+      internalID: -884480348869087149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_20
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 12
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66d00cbf8f582400800000000000000
+      internalID: 299594446159271534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_21
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 12
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bf9453efb871d50800000000000000
+      internalID: 6707984093923638047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_22
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 12
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba22581e83201e0800000000000000
+      internalID: -2233159923969905826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Y Signal_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 12
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e575c867d916f1010800000000000000
+      internalID: 1161754557811545950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2b54cfb0cdbdb245abe74b469a85ce1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Y Signal_13: -3786177052524098889
+      Y Signal_19: -884480348869087149
+      Y Signal_20: 299594446159271534
+      Y Signal_1: -1772671277225646411
+      Y Signal_22: -2233159923969905826
+      Y Signal_2: 2397781037422042972
+      Y Signal_3: 3287895308498161320
+      Y Signal_8: -5665622156586988518
+      Y Signal_10: -6064161911591323740
+      Y Signal_4: 932682251228130028
+      Y Signal_16: 2292080925432852985
+      Y Signal_7: -6569514105564485012
+      Y Signal_11: -5980422359089930093
+      Y Signal_23: 1161754557811545950
+      Y Signal_12: 2068045458348709535
+      Y Signal_18: 6501257982975462811
+      Y Signal_14: -687473342408301767
+      Y Signal_9: 1700915893814529912
+      Y Signal_5: -893185670367296898
+      Y Signal_0: 4961101678243860888
+      Y Signal_17: 6147423822289843351
+      Y Signal_6: 6280833937791751481
+      Y Signal_15: -204722848842612288
+      Y Signal_21: 6707984093923638047
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

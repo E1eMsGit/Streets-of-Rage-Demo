@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: a485921b627c07b40b96b4b24996a903
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Enemy_0
+  - first:
+      213: 21300002
+    second: Enemy_1
+  - first:
+      213: 21300004
+    second: Enemy_2
+  - first:
+      213: 21300006
+    second: Enemy_3
+  - first:
+      213: 21300008
+    second: Enemy_4
+  - first:
+      213: 21300010
+    second: Enemy_5
+  - first:
+      213: 21300012
+    second: Enemy_6
+  - first:
+      213: 21300014
+    second: Enemy_7
+  - first:
+      213: 21300016
+    second: Enemy_8
+  - first:
+      213: 21300018
+    second: Enemy_9
+  - first:
+      213: 21300020
+    second: Enemy_10
+  - first:
+      213: 21300022
+    second: Enemy_11
+  - first:
+      213: 21300024
+    second: Enemy_12
+  - first:
+      213: 21300026
+    second: Enemy_13
+  - first:
+      213: 21300028
+    second: Enemy_14
+  - first:
+      213: 21300030
+    second: Enemy_15
+  - first:
+      213: 21300032
+    second: Enemy_16
+  - first:
+      213: 21300034
+    second: Enemy_17
+  - first:
+      213: 21300036
+    second: Enemy_18
+  - first:
+      213: 21300038
+    second: Enemy_19
+  - first:
+      213: -726490421936017050
+    second: Garcia_0
+  - first:
+      213: 5245048658568075066
+    second: Garcia_1
+  - first:
+      213: -1313866152609636907
+    second: Garcia_2
+  - first:
+      213: 5310805756572387395
+    second: Garcia_3
+  - first:
+      213: -2327065577312784845
+    second: Garcia_4
+  - first:
+      213: -1430132552774586806
+    second: Garcia_5
+  - first:
+      213: 8271335797105865096
+    second: Garcia_6
+  - first:
+      213: -6082608835765878669
+    second: Garcia_7
+  - first:
+      213: 6821756765533402382
+    second: Garcia_8
+  - first:
+      213: 8203990444013137071
+    second: Garcia_9
+  - first:
+      213: -2025362232225224414
+    second: Garcia_10
+  - first:
+      213: -6718139244994962755
+    second: Garcia_11
+  - first:
+      213: -4267343364224617925
+    second: Garcia_12
+  - first:
+      213: 2453058365263545978
+    second: Garcia_13
+  - first:
+      213: -4141017416610641160
+    second: Garcia_14
+  - first:
+      213: 306333068823397184
+    second: Garcia_15
+  - first:
+      213: -7141741927787404298
+    second: Garcia_16
+  - first:
+      213: 3773843240655722912
+    second: Garcia_17
+  - first:
+      213: 4428233364589370634
+    second: Garcia_18
+  - first:
+      213: -4244859962822436471
+    second: Garcia_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Garcia_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b7c37fccfae5f0800000000000000
+      internalID: -726490421936017050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37d69b27f72ac840800000000000000
+      internalID: 5245048658568075066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 180
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1b4302b534cde0800000000000000
+      internalID: -1313866152609636907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 180
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c89f92b5c3b940800000000000000
+      internalID: 5310805756572387395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 180
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e6b3fcf2a94bfd0800000000000000
+      internalID: -2327065577312784845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 146
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ee52a3506272ce0800000000000000
+      internalID: -1430132552774586806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881b7748510b9c270800000000000000
+      internalID: 8271335797105865096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370c58cad7b369ba0800000000000000
+      internalID: -6082608835765878669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 79
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057cb192afbbae50800000000000000
+      internalID: 6821756765533402382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac2a1c97dd6ad170800000000000000
+      internalID: 8203990444013137071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 96
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22929b6d7c774e3e0800000000000000
+      internalID: -2025362232225224414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad67e63ff54c2a0800000000000000
+      internalID: -6718139244994962755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3275c0d1d957c4c0800000000000000
+      internalID: -4267343364224617925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 12
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7685da16930b0220800000000000000
+      internalID: 2453058365263545978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa873289962886c0800000000000000
+      internalID: -4141017416610641160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0438c269d40504400800000000000000
+      internalID: 306333068823397184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 12
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e7b42e8f63ec90800000000000000
+      internalID: -7141741927787404298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 12
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a91b45ce626f5430800000000000000
+      internalID: 3773843240655722912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 12
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd1e688ce347d30800000000000000
+      internalID: 4428233364589370634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garcia_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 12
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989d0b2aa5a3715c0800000000000000
+      internalID: -4244859962822436471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 00a056cfd9e26264b9a13cb82e562539
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Garcia_3: 5310805756572387395
+      Garcia_11: -6718139244994962755
+      Garcia_19: -4244859962822436471
+      Garcia_15: 306333068823397184
+      Garcia_18: 4428233364589370634
+      Garcia_7: -6082608835765878669
+      Garcia_9: 8203990444013137071
+      Garcia_6: 8271335797105865096
+      Garcia_5: -1430132552774586806
+      Garcia_12: -4267343364224617925
+      Garcia_16: -7141741927787404298
+      Garcia_1: 5245048658568075066
+      Garcia_17: 3773843240655722912
+      Garcia_8: 6821756765533402382
+      Garcia_10: -2025362232225224414
+      Garcia_2: -1313866152609636907
+      Garcia_4: -2327065577312784845
+      Garcia_13: 2453058365263545978
+      Garcia_14: -4141017416610641160
+      Garcia_0: -726490421936017050
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

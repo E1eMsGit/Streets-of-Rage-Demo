@@ -1,0 +1,1523 @@
+fileFormatVersion: 2
+guid: f4dd3a4fe471bc849a85473a8b00c9dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8029351004527951999
+    second: Adam_0
+  - first:
+      213: 4444914902908276891
+    second: Adam_1
+  - first:
+      213: -1478000030981416494
+    second: Adam_2
+  - first:
+      213: -3772976151426981094
+    second: Adam_3
+  - first:
+      213: 5618918571013698551
+    second: Adam_4
+  - first:
+      213: 5558309522555159600
+    second: Adam_5
+  - first:
+      213: -738572447241314160
+    second: Adam_6
+  - first:
+      213: 5233477449398830585
+    second: Adam_7
+  - first:
+      213: 4819315133166183901
+    second: Adam_8
+  - first:
+      213: -4448304333360474459
+    second: Adam_9
+  - first:
+      213: -954090317574971726
+    second: Adam_10
+  - first:
+      213: -6830996870729217053
+    second: Adam_11
+  - first:
+      213: 614197825846722548
+    second: Adam_12
+  - first:
+      213: 1307716658740371037
+    second: Adam_13
+  - first:
+      213: -5940356601821674154
+    second: Adam_14
+  - first:
+      213: -8638811034218970700
+    second: Adam_15
+  - first:
+      213: -2562667635924742726
+    second: Adam_16
+  - first:
+      213: 8509559849202721367
+    second: Adam_17
+  - first:
+      213: 95142032881363429
+    second: Adam_18
+  - first:
+      213: 1223670311968810305
+    second: Adam_19
+  - first:
+      213: 6797831736112152168
+    second: Adam_20
+  - first:
+      213: -4439881195144439767
+    second: Adam_21
+  - first:
+      213: 8159922853718100403
+    second: Adam_22
+  - first:
+      213: -154437504682249893
+    second: Adam_23
+  - first:
+      213: 7573368380818898677
+    second: Adam_24
+  - first:
+      213: -15552431105707629
+    second: Adam_25
+  - first:
+      213: -2674139293714644628
+    second: Adam_26
+  - first:
+      213: 5159934182663906699
+    second: Adam_27
+  - first:
+      213: 1920248210048394507
+    second: Adam_28
+  - first:
+      213: -6709653836056188295
+    second: Adam_29
+  - first:
+      213: 4389850826303777610
+    second: Adam_30
+  - first:
+      213: 684268511020493184
+    second: Adam_31
+  - first:
+      213: -7599717160314846391
+    second: Adam_32
+  - first:
+      213: -3156406439545933499
+    second: Adam_33
+  - first:
+      213: -273391759343620539
+    second: Adam_34
+  - first:
+      213: 5954990901482160775
+    second: Adam_35
+  - first:
+      213: -4638782043670535012
+    second: Adam_36
+  - first:
+      213: -8323538212378828352
+    second: Adam_37
+  - first:
+      213: 2068392974455859488
+    second: Adam_38
+  - first:
+      213: -8735651285645779232
+    second: Adam_39
+  - first:
+      213: 6569901301791590014
+    second: Adam_40
+  - first:
+      213: -6616683628708013039
+    second: Adam_41
+  - first:
+      213: 2932713715220966730
+    second: Adam_42
+  - first:
+      213: 5036620764849633749
+    second: Adam_43
+  - first:
+      213: -3996275995152034148
+    second: Adam_44
+  - first:
+      213: -620511998282638969
+    second: Adam_45
+  - first:
+      213: 6858565409037539376
+    second: Adam_46
+  - first:
+      213: 4315854325024950302
+    second: Adam_47
+  - first:
+      213: 7422267954614583917
+    second: Adam_48
+  - first:
+      213: 6641517283167822091
+    second: Adam_49
+  - first:
+      213: -6899663369219123261
+    second: Adam_50
+  - first:
+      213: 7842170994434674963
+    second: Adam_51
+  - first:
+      213: 3253792727522832453
+    second: Adam_52
+  - first:
+      213: 1958985723878809249
+    second: Adam_53
+  - first:
+      213: -6771985494324429099
+    second: Adam_54
+  - first:
+      213: 5042888154655829738
+    second: Adam_55
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7080d1823cfd6f60800000000000000
+      internalID: 8029351004527951999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 460
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9010b4dd828fad30800000000000000
+      internalID: 4444914902908276891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 460
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d916577dc61d7be0800000000000000
+      internalID: -1478000030981416494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 460
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13ac2c2e22b3abc0800000000000000
+      internalID: -3772976151426981094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 460
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3fd178ba86afd40800000000000000
+      internalID: 5618918571013698551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 460
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0344293cf05132d40800000000000000
+      internalID: 5558309522555159600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 460
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906a49b54010c5f0800000000000000
+      internalID: -738572447241314160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54f67130c01a840800000000000000
+      internalID: 5233477449398830585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 380
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e80d6495a1e240800000000000000
+      internalID: 4819315133166183901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 380
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d735e6c27442c0800000000000000
+      internalID: -4448304333360474459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 380
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bedd4149e362c2f0800000000000000
+      internalID: -954090317574971726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 380
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb416ac98c6331a0800000000000000
+      internalID: -6830996870729217053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 380
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff396f1ba1168800800000000000000
+      internalID: 614197825846722548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e941f5f51f52210800000000000000
+      internalID: 1307716658740371037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 300
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655c54dd42d9f8da0800000000000000
+      internalID: -5940356601821674154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 305
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b147af7227cc1880800000000000000
+      internalID: -8638811034218970700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 306
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdc05bdc539f6cd0800000000000000
+      internalID: -2562667635924742726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 300
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a7a6e897081670800000000000000
+      internalID: 8509559849202721367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 300
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e92a11cc23025100800000000000000
+      internalID: 95142032881363429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 300
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145a71b5aa95bf010800000000000000
+      internalID: 1223670311968810305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 300
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e77d192ffb65e50800000000000000
+      internalID: 6797831736112152168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 300
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289a76939f5262c0800000000000000
+      internalID: -4439881195144439767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 300
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b985723a9edd3170800000000000000
+      internalID: 8159922853718100403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51ba6168e35bddf0800000000000000
+      internalID: -154437504682249893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 216
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feb2ebba620a1960800000000000000
+      internalID: 7573368380818898677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 212
+        width: 22
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391fc84752fb8cff0800000000000000
+      internalID: -15552431105707629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 212
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6189360b7c83ead0800000000000000
+      internalID: -2674139293714644628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 212
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e316fcc4cb9740800000000000000
+      internalID: 5159934182663906699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 212
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05a388b29716aa10800000000000000
+      internalID: 1920248210048394507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 212
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa808a26582e2a0800000000000000
+      internalID: -6709653836056188295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_30
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 212
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4baace6112ebec30800000000000000
+      internalID: 4389850826303777610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_31
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 244
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ac5ad5920f7900800000000000000
+      internalID: 684268511020493184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_32
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 252
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9434ef9f181688690800000000000000
+      internalID: -7599717160314846391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 212
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541fb1c01113234d0800000000000000
+      internalID: -3156406439545933499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eedc3b4a7b43cf0800000000000000
+      internalID: -273391759343620539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 140
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782078b8ca064a250800000000000000
+      internalID: 5954990901482160775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 140
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94ae800f4cbf9fb0800000000000000
+      internalID: -4638782043670535012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 140
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c125c8881adc7c80800000000000000
+      internalID: -8323538212378828352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 140
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ea52937864bc10800000000000000
+      internalID: 2068392974455859488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 140
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee166d607bb4c680800000000000000
+      internalID: -8735651285645779232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_40
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 140
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e760aa6dc6afc2b50800000000000000
+      internalID: 6569901301791590014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_41
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 140
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c57bfdb41dc24a0800000000000000
+      internalID: -6616683628708013039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d69a7f59713b820800000000000000
+      internalID: 2932713715220966730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 68
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f73586eba5e540800000000000000
+      internalID: 5036620764849633749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_44
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 68
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96da84d7206a88c0800000000000000
+      internalID: -3996275995152034148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789de7b00af7367f0800000000000000
+      internalID: -620511998282638969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 68
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038d67ab6e48e2f50800000000000000
+      internalID: 6858565409037539376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 68
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18027964aef4eb30800000000000000
+      internalID: 4315854325024950302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 68
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62419e3161310760800000000000000
+      internalID: 7422267954614583917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_49
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 68
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01e5d0e7c86b2c50800000000000000
+      internalID: 6641517283167822091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 68
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c75befb8b87f30a0800000000000000
+      internalID: -6899663369219123261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_51
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 68
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311962748fcf4dc60800000000000000
+      internalID: 7842170994434674963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407fb01f3bc72d20800000000000000
+      internalID: 3253792727522832453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9bdff227bf2b10800000000000000
+      internalID: 1958985723878809249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb1ba82131502a0800000000000000
+      internalID: -6771985494324429099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adam_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee294cee00fbf540800000000000000
+      internalID: 5042888154655829738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8afecab14599bbd4e915b4e301607863
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Adam_6: -738572447241314160
+      Adam_15: -8638811034218970700
+      Adam_2: -1478000030981416494
+      Adam_32: -7599717160314846391
+      Adam_19: 1223670311968810305
+      Adam_45: -620511998282638969
+      Adam_50: -6899663369219123261
+      Adam_9: -4448304333360474459
+      Adam_5: 5558309522555159600
+      Adam_11: -6830996870729217053
+      Adam_54: -6771985494324429099
+      Adam_20: 6797831736112152168
+      Adam_25: -15552431105707629
+      Adam_14: -5940356601821674154
+      Adam_10: -954090317574971726
+      Adam_18: 95142032881363429
+      Adam_35: 5954990901482160775
+      Adam_3: -3772976151426981094
+      Adam_38: 2068392974455859488
+      Adam_37: -8323538212378828352
+      Adam_48: 7422267954614583917
+      Adam_28: 1920248210048394507
+      Adam_33: -3156406439545933499
+      Adam_44: -3996275995152034148
+      Adam_16: -2562667635924742726
+      Adam_51: 7842170994434674963
+      Adam_7: 5233477449398830585
+      Adam_40: 6569901301791590014
+      Adam_49: 6641517283167822091
+      Adam_41: -6616683628708013039
+      Adam_1: 4444914902908276891
+      Adam_36: -4638782043670535012
+      Adam_30: 4389850826303777610
+      Adam_55: 5042888154655829738
+      Adam_53: 1958985723878809249
+      Adam_12: 614197825846722548
+      Adam_29: -6709653836056188295
+      Adam_24: 7573368380818898677
+      Adam_27: 5159934182663906699
+      Adam_42: 2932713715220966730
+      Adam_23: -154437504682249893
+      Adam_52: 3253792727522832453
+      Adam_39: -8735651285645779232
+      Adam_46: 6858565409037539376
+      Adam_8: 4819315133166183901
+      Adam_47: 4315854325024950302
+      Adam_4: 5618918571013698551
+      Adam_13: 1307716658740371037
+      Adam_34: -273391759343620539
+      Adam_26: -2674139293714644628
+      Adam_31: 684268511020493184
+      Adam_43: 5036620764849633749
+      Adam_17: 8509559849202721367
+      Adam_22: 8159922853718100403
+      Adam_21: -4439881195144439767
+      Adam_0: 8029351004527951999
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
